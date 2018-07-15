@@ -6,6 +6,7 @@ log
 npm-debug.log
 pid
 sh
+variables.js
 
 # Logs
 logs
