@@ -1,6 +1,8 @@
 ## Installation and Startup
 npm i
+
 npm build
+
 npm run start
 
 ## Demo
