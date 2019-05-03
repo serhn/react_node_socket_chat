@@ -13,7 +13,3 @@ npm build
 npm run start
 
 http://localhost:3001
-
-## Demo
-[http://umnikov.net/](http://umnikov.net/)
-
